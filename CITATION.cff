@@ -9,6 +9,7 @@ authors:
     email: constantin.plessen@uni-graz.at
 version: 1.0.0
 date-released: 2026-10-05
+doi: 10.5281/zenodo.23162504
 repository-code: "https://github.com/cyplessen/ecbt-fcbt-reanalysis"
 license: MIT
 keywords:
