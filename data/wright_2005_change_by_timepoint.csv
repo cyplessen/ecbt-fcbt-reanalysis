@@ -1,0 +1,5 @@
+study,instrument,timepoint,sample,change_e_m,change_e_sd,change_c_m,change_c_sd
+Wright 2005,BDI,week 8 (completer),completer,19,10.1,15.2,7.1
+Wright 2005,HAM-D,week 8 (completer),completer,8.2,6.4,8.4,6.3
+Wright 2005,BDI,week 4 (completer),completer,10.7,8.1,9.7,8.5
+Wright 2005,HAM-D,week 4 (completer),completer,5.3,4.8,4.7,5.8

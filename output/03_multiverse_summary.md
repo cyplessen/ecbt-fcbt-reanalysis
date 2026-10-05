@@ -1,0 +1,5 @@
+# Multiverse range summary
+
+Sign convention: positive favours face-to-face CBT
+
+Across 2388 distinct specifications (positive favours face-to-face CBT), the pooled Hedges' g ranges from -0.04 to 0.36 with a median of 0.17 (interquartile range 0.13 to 0.21); the 95% CI includes zero in 2376 of 2388 specifications, the 12 exceptions all favour face-to-face, and no specification favours eCBT. The primary specification (reconciled data, post-test SMD, primary instruments, REML, all 14 studies) gives 0.16 [-0.12, 0.45], and the largest single driver is inclusion: without the two MoodGYM trials the median drops to 0.05 (range -0.04 to 0.15), whereas data source, estimator, instrument rule and the handling of Wright 2005 shift medians by at most 0.12. No specification supports the original conclusion that eCBT is more effective, and none comes within 0.5 of the corrigendum's -0.92 (0.92 on this axis); the data are compatible with small differences in both directions, and the slight advantage for face-to-face CBT rests on the two small MoodGYM trials.

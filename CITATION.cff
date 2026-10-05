@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite it as below."
+title: "Standard errors entered as standard deviations: a reanalysis of Luo et al. (2020) on electronic versus face-to-face CBT"
+authors:
+  - family-names: Plessen
+    given-names: Constantin Yves
+    affiliation: "Psychotherapy and Psychotherapy Research (CBT), Center for Psychotherapy, University of Graz, Austria"
+    orcid: "https://orcid.org/0000-0002-4907-3505"
+    email: constantin.plessen@uni-graz.at
+version: 1.0.0
+date-released: 2026-10-05
+repository-code: "https://github.com/cyplessen/ecbt-fcbt-reanalysis"
+license: MIT
+keywords:
+  - meta-analysis
+  - reproducibility
+  - multiverse analysis
+  - specification curve
+  - cognitive behavioural therapy
+  - depression

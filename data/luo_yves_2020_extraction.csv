@@ -1,0 +1,15 @@
+study,n_e,n_c,pre_c_m,pre_c_sd,pre_e_m,pre_e_sd,post_c_m,post_c_sd,post_e_m,post_e_sd,n_e_post,n_c_post,provenance
+Luxton 2016,62,59,29.71,11.30,27.60,10.45,11.74,12.08,13.82,12.02,45,42,author's 2020 notes (2020 Rmd values quoted)
+Mohr 2012,163,162,22.83,4.60,22.83,4.60,12.51,7.85,13.58,7.30,152,141,author's 2020 notes: SDs from JAMA 95% CIs with completer n 141/152 (post SDs recomputed here; pre SD as Table 1)
+Choi 2014,56,63,27.75,6.59,23.54,6.44,14.08,7.46,13.68,7.48,,,author's 2020 notes: matches Table 1
+Wagner 2014,32,30,23.41,7.63,22.96,6.07,12.33,8.77,12.41,10.03,,,author's 2020 notes: matches Table 1
+Sethi 2013,23,21,21.42,6.80,17.65,5.03,7.80,3.09,12.17,3.12,,,author's 2020 notes: matches Table 1
+Sethi 2010,9,10,19.00,5.10,16.40,9.20,7.20,3.10,15.70,4.20,,,author's 2020 notes: matches Table 1
+Wright 2005,15,15,24.40,6.80,31.40,8.20,9.70,,13.90,,,,author's 2020 notes: post = pre - reported change; post SD used in the Rmd unknown
+Himelhoch 2013,16,18,24.60,5.30,22.60,5.20,15.90,7.20,16.30,8.60,,,author's 2020 notes: matches Table 1
+Poppelaars 2016,51,50,66.94,7.09,69.33,8.37,62.44,7.09,57.08,14.21,,,author's 2020 notes (2020 Rmd quoted; post = T12; f2f post SD 7.09 as quoted, likely a typo for 12.77)
+Glueckauf 2012,6,5,11.80,7.40,12.67,8.91,9.00,5.70,4.67,2.07,6,5,author's 2020 notes: n 6/5
+Kalapatapu 2014,50,53,21.80,3.80,22.20,4.70,11.80,7.20,12.80,9.20,,,author's 2020 notes: matches Table 1
+Nelson 2003,14,14,13.57,8.75,14.36,9.85,11.64,11.63,6.71,4.78,,,author's 2020 notes: matches Table 1
+Kay-Lambkin 2009,32,35,34.91,9.70,28.57,9.89,13.04,10.51,17.09,12.14,,,author's 2020 notes: f2f post 13.04 (10.51)
+Andersson 2013,32,33,24.10,5.00,23.60,4.80,17.10,8.00,13.60,9.80,32,33,author's 2020 notes: n 32/33

@@ -1,0 +1,5 @@
+quantity,published,smd_change,smd_post
+"Pooled, DerSimonian-Laird","0.92 [0.09, 1.76]","0.23 [-0.05, 0.51]","0.10 [-0.13, 0.33]"
+"Pooled, REML",,"0.23 [-0.12, 0.58]","0.11 [-0.17, 0.38]"
+"Pooled, REML + HKSJ",,"0.23 [-0.19, 0.65]","0.11 [-0.25, 0.47]"
+"I^2 (Q-based), DL",97%,78%,68%

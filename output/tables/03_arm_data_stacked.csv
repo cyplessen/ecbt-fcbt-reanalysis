@@ -1,0 +1,49 @@
+study,study_key,data_source,instrument,rater,primary_instrument,instrument_code,n_e,n_c,n_e_post,n_c_post,pre_e_m,pre_e_sd,pre_c_m,pre_c_sd,post_e_m,post_e_sd,post_c_m,post_c_sd,change_e_m,change_e_sd,change_c_m,change_c_sd,adj_diff,adj_diff_lb,adj_diff_ub,adj_ci_level,post_sd_imputed
+Luxton 2016,Luxton 2016,reconciled,BDI-II,self,TRUE,P_S_only,62,59,45,42,27.6,10.45,29.71,11.33,13.82,12.02,11.74,12.08,,,,,4.23,0.66,7.81,0.9,FALSE
+Mohr 2012,Mohr 2012,reconciled,Ham-D,clinician,TRUE,P_C_alt,163,162,152,141,22.83,4.55,22.83,4.55,13.58,7.56,12.51,8.41,,,,,1.07,-0.63,2.76,0.95,FALSE
+Mohr 2012,Mohr 2012,reconciled,PHQ-9,self,FALSE,S_alt,163,162,150,136,16.76,4.83,16.76,4.83,6.65,6.06,6.74,6.46,,,,,-0.09,-1.35,1.17,0.95,FALSE
+Choi 2014,Choi 2014,reconciled,HAMD,clinician,TRUE,P_C_only,56,63,,,23.54,6.44,27.75,6.59,13.68,7.48,14.08,7.46,,,,,,,,,FALSE
+Wagner 2014,Wagner 2014,reconciled,BDI,self,TRUE,P_S_only,32,30,,,22.96,6.07,23.41,7.63,12.41,10.03,12.33,8.77,,,,,,,,,FALSE
+Sethi 2013,Sethi 2013,reconciled,depression subscale (name not visible),self,TRUE,P_S_only,23,21,,,17.65,5.03,21.42,6.8,12.17,3.12,7.8,3.09,,,,,,,,,FALSE
+Sethi 2010,Sethi 2010,reconciled,depression subscale (name not visible),self,TRUE,P_S_only,9,10,,,16.4,9.2,19,5.1,15.7,4.2,7.2,3.1,,,,,,,,,FALSE
+Wright 2005,Wright 2005,reconciled,BDI,self,TRUE,P_S_alt,15,15,,,31.4,8.2,24.4,6.8,13.9,10.8,9.7,8,17.5,10.8,14.7,8,,,,,TRUE
+Wright 2005,Wright 2005,reconciled,HAM-D,clinician,FALSE,C_alt,15,15,,,16.6,3.2,17.1,5.4,9.1,6.3,8.8,6.6,7.5,6.3,8.3,6.6,,,,,TRUE
+Himelhoch 2013,Himelhoch 2013,reconciled,HAM-D,clinician,TRUE,P_C_alt,16,18,16,18,22.6,5.2,24.6,5.3,16.3,8.6,15.9,7.2,,,,,,,,,FALSE
+Himelhoch 2013,Himelhoch 2013,reconciled,QIDS-SR,self,FALSE,S_alt,16,18,16,18,16.3,4.1,17,3.5,10.8,5.5,9.2,3.7,,,,,,,,,FALSE
+Poppelaars 2016,Poppelaars 2016,reconciled,RADS-2,self,TRUE,P_S_only,51,50,,,69.33,8.37,66.94,7.09,57.88,12.57,59.33,13.27,,,,,,,,,FALSE
+Glueckauf 2012,Glueckauf 2012,reconciled,depression (instrument not visible),self,TRUE,P_S_only,6,5,6,5,12.67,8.91,11.8,7.4,4.67,2.07,9,5.7,,,,,,,,,FALSE
+Kalapatapu 2014,Kalapatapu 2014,reconciled,HAM-D,clinician,TRUE,P_C_alt,50,53,,,22.2,4.7,21.8,3.8,12.8,9.2,11.8,7.2,,,,,,,,,FALSE
+Kalapatapu 2014,Kalapatapu 2014,reconciled,PHQ-9,self,FALSE,S_alt,50,53,,,16.8,5.1,16,5.1,6.9,7.2,5.9,5.4,,,,,,,,,FALSE
+Nelson 2003,Nelson 2003,reconciled,depression (instrument not visible),self,TRUE,P_S_only,14,14,14,14,14.36,9.85,13.57,8.75,6.71,4.78,11.64,11.63,,,,,,,,,FALSE
+Kay-Lambkin 2009,Kay-Lambkin 2009,reconciled,BDI-II,self,TRUE,P_S_only,32,35,,,28.57,9.89,34.91,9.7,17.09,12.14,13.04,10.51,,,,,,,,,FALSE
+Andersson 2013,Andersson 2013,reconciled,MADRS-S,self,TRUE,P_S_alt,33,36,,,23.6,4.8,24.1,5,13.6,9.8,17.1,8,,,,,,,,,FALSE
+Andersson 2013,Andersson 2013,reconciled,BDI,self,FALSE,S_alt,33,36,,,24,7,25.3,6.6,13.6,10.1,17.9,8.8,,,,,,,,,FALSE
+Andersson 2013,Andersson 2013,reconciled,HRSD,clinician,FALSE,C_alt,33,36,29,30,15.4,3.8,16.4,5,6.3,5,8.1,4.9,,,,,,,,,FALSE
+Luxton 2016,Luxton 2016,corrigendum,as published,,TRUE,P,62,59,,,26.65,11.8,29.69,11.74,13.63,12.47,11.74,12.08,,,,,,,,,FALSE
+Mohr 2012,Mohr 2012,corrigendum,as published,,TRUE,P,163,162,,,22.83,4.6,22.83,4.6,13.58,7.55,12.51,8.41,,,,,,,,,FALSE
+Choi 2014,Choi 2014,corrigendum,as published,,TRUE,P,56,63,,,23.54,6.44,27.75,6.59,13.68,7.48,14.08,7.46,,,,,,,,,FALSE
+Wagner 2014,Wagner 2014,corrigendum,as published,,TRUE,P,32,30,,,22.96,6.07,23.41,7.63,12.41,10.03,12.33,8.77,,,,,,,,,FALSE
+Sethi 2013,Sethi 2013,corrigendum,as published,,TRUE,P,23,21,,,17.65,5.03,21.42,6.8,12.17,3.12,7.8,3.09,,,,,,,,,FALSE
+Sethi 2010,Sethi 2010,corrigendum,as published,,TRUE,P,9,10,,,16.4,9.2,19,5.1,15.7,4.2,7.2,3.1,,,,,,,,,FALSE
+Wright 2005,Wright 2005,corrigendum,as published,,TRUE,P,15,15,,,31.1,8.2,24.4,6.8,10.7,8.1,9.7,8.5,,,,,,,,,FALSE
+Himelhoch 2013,Himelhoch 2013,corrigendum,as published,,TRUE,P,16,18,,,22.6,5.2,24.6,5.3,16.3,8.6,15.9,7.2,,,,,,,,,FALSE
+Poppelaars 2016,Poppelaars 2016,corrigendum,as published,,TRUE,P,51,50,,,62.61,11.97,63.35,10.39,57.88,12.57,59.33,13.27,,,,,,,,,FALSE
+Glueckauf 2012,Glueckauf 2012,corrigendum,as published,,TRUE,P,7,7,,,12.67,8.91,11.8,7.4,4.67,2.07,9,5.7,,,,,,,,,FALSE
+Kalapatapu 2014,Kalapatapu 2014,corrigendum,as published,,TRUE,P,50,53,,,22.2,4.7,21.8,3.8,12.8,9.2,11.8,7.2,,,,,,,,,FALSE
+Nelson 2003,Nelson 2003,corrigendum,as published,,TRUE,P,14,14,,,14.36,9.85,13.57,8.75,6.71,4.78,11.64,11.63,,,,,,,,,FALSE
+Kay-Lambkin 2009,Kay-Lambkin 2009,corrigendum,as published,,TRUE,P,32,35,,,28.57,9.89,34.91,9.7,17.09,12.14,16.65,10.63,,,,,,,,,FALSE
+Andersson 2013,Andersson 2013,corrigendum,as published,,TRUE,P,33,36,,,23.6,4.8,24.1,5,13.6,9.8,17.1,8,,,,,,,,,FALSE
+Luxton 2016,Luxton 2016,kriston,as extracted by Kriston et al.,,TRUE,P,45,42,,,27.6,10.45,29.71,11.33,13.82,12.02,11.74,12.08,,,,,,,,,FALSE
+Mohr 2012,Mohr 2012,kriston,as extracted by Kriston et al.,,TRUE,P,152,141,,,22.9,4.6,22.8,4.6,13.58,7.3,12.51,7.85,,,,,,,,,FALSE
+Choi 2014,Choi 2014,kriston,as extracted by Kriston et al.,,TRUE,P,49,54,,,23.54,6.44,27.75,6.59,13.68,7,14.08,6.91,,,,,,,,,FALSE
+Wagner 2014,Wagner 2014,kriston,as extracted by Kriston et al.,,TRUE,P,25,28,,,22.96,6.07,23.41,7.63,12.41,10.03,12.33,8.77,,,,,,,,,FALSE
+Sethi 2013,Sethi 2013,kriston,as extracted by Kriston et al.,,TRUE,P,23,21,,,17.65,5.03,21.42,6.8,12.17,3.12,7.8,3.09,,,,,,,,,FALSE
+Sethi 2010,Sethi 2010,kriston,as extracted by Kriston et al.,,TRUE,P,9,10,,,16.4,9.2,19,5.1,15.7,4.2,7.2,3.1,,,,,,,,,FALSE
+Wright 2005,Wright 2005,kriston,as extracted by Kriston et al.,,TRUE,P,15,15,,,31.4,8.2,24.4,6.8,13.9,9.91,9.7,6.72,17.5,10.802356224453998,14.7,7.998799909986496,,,,,TRUE
+Himelhoch 2013,Himelhoch 2013,kriston,as extracted by Kriston et al.,,TRUE,P,14,17,,,22.6,5.2,24.6,5.3,16.3,8.6,15.9,7.2,,,,,,,,,FALSE
+Poppelaars 2016,Poppelaars 2016,kriston,as extracted by Kriston et al.,,TRUE,P,51,50,,,69.33,8.37,66.94,7.09,57.88,12.57,59.33,13.27,,,,,,,,,FALSE
+Glueckauf 2012,Glueckauf 2012,kriston,as extracted by Kriston et al.,,TRUE,P,6,5,,,12.67,8.91,11.8,7.4,4.67,2.07,9,5.7,,,,,,,,,FALSE
+Kalapatapu 2014,Kalapatapu 2014,kriston,as extracted by Kriston et al.,,TRUE,P,50,53,,,22.2,4.7,21.8,3.8,12.8,9.2,11.8,7.2,,,,,,,,,FALSE
+Nelson 2003,Nelson 2003,kriston,as extracted by Kriston et al.,,TRUE,P,14,14,,,14.36,9.85,13.57,8.75,6.71,4.78,11.64,11.63,,,,,,,,,FALSE
+Kay-Lambkin 2009,Kay-Lambkin 2009,kriston,as extracted by Kriston et al.,,TRUE,P,23,23,,,28.57,9.89,34.91,9.7,17.09,12.14,13.04,10.51,,,,,,,,,FALSE
+Andersson 2013,Andersson 2013,kriston,as extracted by Kriston et al.,,TRUE,P,32,33,,,23.6,4.8,24.1,5,13.6,9.8,17.1,8,,,,,,,,,FALSE

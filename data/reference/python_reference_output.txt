@@ -1,0 +1,71 @@
+=== 1. Does the corrigendum's 'SD' column reproduce as SE of change with r = 0? ===
+study               chg_e  fig_e  seSD_e  fig_e    chg_c  fig_c  seSD_c  fig_c
+Luxton 2016         13.02  13.00    2.18   2.20    17.95  18.00    2.19   2.20
+Mohr 2012            9.25   9.25    0.69   0.70    10.32  10.35    0.75   0.80
+Choi 2014            9.86   9.86    1.32   1.30    13.67  13.67    1.25   1.25
+Wagner 2014         10.55  10.60    2.07   2.10    11.08  11.10    2.12   2.10
+Sethi 2013           5.48   5.50    1.23   1.20    13.62  13.60    1.63   1.30
+Sethi 2010           0.70   0.70    3.37   3.40    11.80  11.80    1.89   1.90
+Wright 2005         20.40  20.40    2.98   2.90    14.70  14.70    2.81   2.80
+Himelhoch 2013       6.30   6.30    2.51   2.50     8.70   8.70    2.11   2.10
+Poppelaars 2016      4.73   4.70    2.43   2.40     4.02   4.00    2.38   2.40
+Glueckauf 2012       8.00   9.40    3.46   3.50     2.80   2.80    3.53   3.50  <-- mean mismatch
+Kalapatapu 2014      9.40   9.40    1.46   1.50    10.00  10.00    1.12   1.10
+Nelson 2003          7.65   7.70    2.93   2.90     1.93   1.90    3.89   3.90
+Kay-Lambkin 2009    11.48  11.50    2.77   2.80    18.26  18.30    2.43   2.40
+Andersson 2013      10.00  10.00    1.90   1.90     7.00   7.00    1.57   1.60
+
+=== 2. Their analysis: 'SMD' = change diff / pooled SE (what RevMan did with their input) ===
+  DL  :  -0.93 [ -1.77,  -0.09]  tau2=2.39 I2=97%
+  REML:  -0.96 [ -2.21,   0.28]  tau2=5.51 I2=97%
+
+=== 3. Correct analyses from the SAME Table 1 ===
+-- 3a. Post-test Hedges g (positive favours face-to-face) --
+  Luxton 2016        g=  0.15 [ -0.20,   0.51]
+  Mohr 2012          g=  0.13 [ -0.08,   0.35]
+  Choi 2014          g= -0.05 [ -0.41,   0.31]
+  Wagner 2014        g=  0.01 [ -0.49,   0.51]
+  Sethi 2013         g=  1.38 [  0.72,   2.04]
+  Sethi 2010         g=  2.22 [  1.07,   3.36]
+  Wright 2005        g=  0.12 [ -0.60,   0.83]
+  Himelhoch 2013     g=  0.05 [ -0.62,   0.72]
+  Poppelaars 2016    g= -0.11 [ -0.50,   0.28]
+  Glueckauf 2012     g= -0.95 [ -2.05,   0.16]
+  Kalapatapu 2014    g=  0.12 [ -0.27,   0.51]
+  Nelson 2003        g= -0.54 [ -1.29,   0.22]
+  Kay-Lambkin 2009   g=  0.04 [ -0.44,   0.52]
+  Andersson 2013     g= -0.39 [ -0.87,   0.09]
+  DL       :   0.10 [ -0.13,   0.33]  tau2=0.11 I2=68%
+  REML     :   0.11 [ -0.17,   0.38]  tau2=0.19 I2=68%
+  REML+HKSJ:   0.11 [ -0.25,   0.47]  tau2=0.19 I2=68%
+  REML w/o both Sethi trials:   0.01 [ -0.11,   0.13]  tau2=0.00 I2=0%
+-- 3b. Difference in standardized mean change (SMCR, Morris-type), positive favours face-to-face --
+  r=0.3 DL  :   0.23 [ -0.04,   0.51]  tau2=0.11 I2=45%
+  r=0.3 REML:   0.23 [ -0.03,   0.49]  tau2=0.08 I2=45%
+  r=0.5 DL  :   0.23 [ -0.05,   0.51]  tau2=0.14 I2=54%
+  r=0.5 REML:   0.23 [ -0.05,   0.51]  tau2=0.14 I2=54%
+  r=0.7 DL  :   0.22 [ -0.05,   0.50]  tau2=0.16 I2=64%
+  r=0.7 REML:   0.23 [ -0.07,   0.53]  tau2=0.21 I2=64%
+  r=0.9 DL  :   0.21 [ -0.06,   0.49]  tau2=0.18 I2=75%
+  r=0.9 REML:   0.22 [ -0.10,   0.55]  tau2=0.28 I2=75%
+-- 3c. SMD of change scores, SD_change from imputed r (positive favours face-to-face) --
+  r=0.5 DL  :   0.21 [ -0.05,   0.47]  tau2=0.16 I2=74%
+  r=0.5 REML:   0.21 [ -0.11,   0.53]  tau2=0.28 I2=74%
+  r=0.7 DL  :   0.25 [ -0.05,   0.56]  tau2=0.25 I2=82%
+  r=0.7 REML:   0.25 [ -0.15,   0.66]  tau2=0.49 I2=82%
+
+=== 4. Baseline imbalance (pre eCBT minus pre f2f, in pooled pre-SD units) ===
+  Luxton 2016         -0.26
+  Mohr 2012            0.00
+  Choi 2014           -0.64
+  Wagner 2014         -0.06
+  Sethi 2013          -0.62
+  Sethi 2010          -0.34
+  Wright 2005          0.87
+  Himelhoch 2013      -0.37
+  Poppelaars 2016     -0.07
+  Glueckauf 2012       0.10
+  Kalapatapu 2014      0.09
+  Nelson 2003          0.08
+  Kay-Lambkin 2009    -0.64
+  Andersson 2013      -0.10
